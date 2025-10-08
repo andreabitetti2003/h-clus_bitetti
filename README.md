@@ -44,15 +44,7 @@ agglomerativo, attraverso richieste Client
 ### 1.2 Gruppo di lavoro
 Il progetto è sviluppato dagli studenti:
 - **Bitetti Andrea**
-    - MATRICOLA: 778423
-    - E-MAIL ISTUZIONALE: a.bitetti16@studenti.uniba.it
-- **Franco Andrea**
-    - MATRICOLA: 774248
-    - E-MAIL ISTUZIONALE: a.franco56@studenti.uniba.it
-- **Gatti Giovanni**
-    - MATRICOLA: 778546
-    - E-MAIL ISTUZIONALE: g.gatti15@studenti.uniba.it
-
+ 
 ---
 ---
 ## **2. Guida di installazione**
@@ -426,3 +418,4 @@ Test di avvio del Server su porta utilizzata da un altro servizio:
 
 ---
 ---
+
